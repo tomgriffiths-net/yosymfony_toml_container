@@ -1,0 +1,14 @@
+{
+    "name": "tomgriffiths_net/yosymfony_toml_container",
+    "description": "A PHP-CLI container package for yosymfony/toml",
+    "type": "library",
+    "require": {
+        "yosymfony/toml": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Griffiths"
+        }
+    ]
+}

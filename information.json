@@ -1,0 +1,8 @@
+{
+    "id_name": "yosymfony_toml_container",
+    "name": "Yosymfony Toml container",
+    "version": 1,
+    "author": "tom",
+    "description": "A container package for the php yosymfony\/toml library",
+    "dependencies": []
+}
