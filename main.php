@@ -13,7 +13,7 @@ class yosymfony_toml_container{
      *
      * Usage:
      * <code>
-     *  $array = Toml::parse('key = "[1,2,3]"');
+     *  $array = yosymfony_toml_container::parse('key = "[1,2,3]"');
      *  print_r($array);
      * </code>
      *
@@ -36,7 +36,7 @@ class yosymfony_toml_container{
      *
      * Usage:
      * <code>
-     *  $array = Toml::parseFile('config.toml');
+     *  $array = yosymfony_toml_container::parseFile('config.toml');
      *  print_r($array);
      * </code>
      *
